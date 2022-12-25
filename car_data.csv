@@ -1,2 +1,2 @@
-	city	condition	cylinders	date time	drive	fuel	lat	odometer	paint color	price	size	title status	transmission	type	year make model	year_c make model
-0	chicago	good	8 cylinders	2022-12-22 09;57	4wd	gas	41.684900	185000	red	5800	full-size	rebuilt	manual	pickup	1993 chevrolet silverado 1500	1993 chevrolet silverado 1500
+	city	condition	date time	fuel	lat	odometer	price	title status	transmission	year make model	year_c make model
+0	chicago	excellent	2022-12-23 17;44	gas	41.837100	121000	12900	clean	automatic	2013 Lincoln MKX	2013 Lincoln MKX
